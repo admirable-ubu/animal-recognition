@@ -11,10 +11,12 @@ The code is divided in two parts, the first is in **MATLAB** with the feature ex
 
 ### 2.1 MATLAB
 
-* **AE (autoencoder) features**:
-* **HOG features**:
-* **LBP features**:
-* **RGB features**: 
+For complete explanation, see `matlab` folder. All features can be extracted using `Extract_AE_Features.m` and `PrepareData.m` scripts.
+
+* **AE (autoencoder) features**: `Extract_AE_Features.m`
+* **HOG features**: `extractHOGFeatures.m`
+* **LBP features**: `extractLBPFeatures`
+* **RGB features**: `get_rgb_features`
 
 ### 2.2 Python
 
