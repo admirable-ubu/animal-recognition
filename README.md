@@ -4,7 +4,7 @@ An Experiment on Animal Re-Identification from Video
 
 ## 1. Data
 
-The data is from repository: [LucyKuncheva/Animal-Identification-from-Video](https://github.com/LucyKuncheva/Animal-Identification-from-Video).
+The data is from repository: [Animal Re-Identification from Video](https://doi.org/10.5281/zenodo.7322820).
 
 ## 2. Code
 The code is divided in two parts, the first is in **MATLAB** with the feature extractions, the second is in **Python** with more feature extraction, the deeplearning and `lazypredict`.
